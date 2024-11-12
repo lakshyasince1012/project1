@@ -1,2 +1,4 @@
 # project1
-this is my first GIT repository
+This is my first GIT repository
+<br>
+Composer : Lakshya Agarwal
